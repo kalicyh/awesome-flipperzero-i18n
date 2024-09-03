@@ -28,7 +28,7 @@
   <td>
     <h3 align="center">
     👋 Flipper Zero 新手？有疑问？<br>
-    请查看 <a href="https://github.com/djsime1/awesome-flipperzero/blob/main/FAQ.md">FAQ 文档</a>❗
+    请查看 <a href="/docs/FAQ/FAQ.md">FAQ 文档</a>❗
     </h3>
   </td>
   <td>
@@ -223,7 +223,7 @@
 
 <table align="right">
   <tr><th><strong>嘿，你好！</strong></th></tr>
-  <tr><td>🔰 <em><a href="https://github.com/djsime1/awesome-flipperzero/blob/main/Firmwares.md">点击这里</a> 查看这些固件的<br>功能对比！</em></td></tr>
+  <tr><td>🔰 <em><a href="/docs/Firmwares/Firmwares.md">点击这里</a> 查看这些固件的<br>功能对比！</em></td></tr>
 </table>
 
 ### *官方固件（ofw）*
@@ -385,7 +385,7 @@
 <hr>
 <h3 align="center">🆕 想要进行更改？ ✨</h3>
 <div align="center">
-  你可以 <kbd><a href="https://github.com/djsime1/awesome-flipperzero/edit/main/README.md">编辑此文件</a></kbd> 并提交拉取请求，
-  或 <kbd><a href="https://github.com/djsime1/awesome-flipperzero/discussions">开始讨论</a></kbd> 分享你的想法。<br>
-  阅读 <a href="https://github.com/djsime1/awesome-flipperzero/blob/main/FAQ.md#meta-">Meta FAQ 部分</a> 了解更多信息。
+  你可以 <kbd><a href="https://github.com/kalicyh/Flipper_Zero_Apps/edit/main/README.md">编辑此文件</a></kbd> 并提交拉取请求，
+  或 <kbd><a href="https://github.com/kalicyh/Flipper_Zero_Apps/discussions">开始讨论</a></kbd> 分享你的想法。<br>
+  阅读 <a href="/docs/FAQ/FAQ.md#meta-">Meta FAQ 部分</a> 了解更多信息。
 </div>

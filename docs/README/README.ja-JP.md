@@ -28,7 +28,7 @@
   <td>
     <h3 align="center">
     👋 Flipper Zero初心者ですか？質問がありますか？<br>
-    <a href="https://github.com/djsime1/awesome-flipperzero/blob/main/FAQ.md">FAQ文書</a>を確認してください❗
+    <a href="/docs/FAQ/FAQ.md">FAQ文書</a>を確認してください❗
     </h3>
   </td>
   <td>
@@ -222,7 +222,7 @@
 
 <table align="right">
   <tr><th><strong>やあ、こんにちは！</strong></th></tr>
-  <tr><td>🔰 <em><a href="https://github.com/djsime1/awesome-flipperzero/blob/main/Firmwares.md">ここをクリックして</a> これらのファームウェアの<br>機能比較を確認してください！</em></td></tr>
+  <tr><td>🔰 <em><a href="/docs/Firmwares/Firmwares.md">ここをクリックして</a> これらのファームウェアの<br>機能比較を確認してください！</em></td></tr>
 </table>
 
 ### *公式ファームウェア（ofw）*
@@ -385,9 +385,9 @@
 <hr>
 <h3 align="center">🆕 変更を行いたいですか？ ✨</h3>
 <div align="center">
- <あなたは <kbd><a href="https://github.com/djsime1/awesome-flipperzero/edit/main/README.md">このファイルを編集</a></kbd> してプルリクエストを送信することができます、
- または <kbd><a href="https://github.com/djsime1/awesome-flipperzero/discussions">議論を開始</a></kbd>してアイデアを共有してください。<br>
- 詳細については <a href="https://github.com/djsime1/awesome-flipperzero/blob/main/FAQ.md#meta-">Meta FAQセクション</a>をお読みください。
+ <あなたは <kbd><a href="https://github.com/kalicyh/Flipper_Zero_Apps/edit/main/README.md">このファイルを編集</a></kbd> してプルリクエストを送信することができます、
+ または <kbd><a href="https://github.com/kalicyh/Flipper_Zero_Apps/discussions">議論を開始</a></kbd>してアイデアを共有してください。<br>
+ 詳細については <a href="/docs/FAQ/FAQ.md#meta-">Meta FAQセクション</a>をお読みください。
 </div>
 
 

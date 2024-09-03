@@ -55,7 +55,7 @@
 
 ### Я нашел ошибку, плохую ссылку или другую проблему. Что мне делать?
 
-> Откройте [новую дискуссию](https://github.com/djsime1/awesome-flipperzero/discussions/new) в этом репозитории или свяжитесь со мной через [эту страницу](https://dj.je/pages/contact).
+> Откройте [новую дискуссию](https://github.com/kalicyh/Flipper_Zero_Apps/discussions/new) в этом репозитории или свяжитесь со мной через [эту страницу](https://dj.je/pages/contact).
 
 ### Почему так много неслитых Pull Request'ов?
 

@@ -50,7 +50,7 @@
 > Perferably, open a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) with your changes, or use one of the methods in the next question to contact me.
 
 ### I found a mistake, broken link, or something else. What should I do?
-> Open a [new discussion](https://github.com/djsime1/awesome-flipperzero/discussions/new) on this repo, or contact me via one of the methods listed on [this page](https://dj.je/pages/contact).
+> Open a [new discussion](https://github.com/kalicyh/Flipper_Zero_Apps/discussions/new) on this repo, or contact me via one of the methods listed on [this page](https://dj.je/pages/contact).
 
 ### Why are there so many unmerged pull requests?
 > If there's multiple small pull requests open at the same time, I'll often merge them together as a single update. Due to the way GitHub works, I'm unable to mark them as merged when I do this. To compensate, I include the contributors as co-authors on the commit, and mention the Pull Request ID's as part of the update message.

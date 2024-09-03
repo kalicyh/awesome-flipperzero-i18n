@@ -223,7 +223,7 @@
 
 <table align="right">
   <tr><th><strong>Hey you!</strong></th></tr>
-  <tr><td>🔰 <em><a href="https://github.com/djsime1/awesome-flipperzero/blob/main/Firmwares.md">Click here</a> for a feature<br>comparison of these firmwares!</em></td></tr>
+  <tr><td>🔰 <em><a href="docs/Firmwares/Firmwares.md">Click here</a> for a feature<br>comparison of these firmwares!</em></td></tr>
 </table>
 
 ### *Official firmware (ofw)*
@@ -386,7 +386,7 @@
 <hr>
 <h3 align="center">🆕 Want to make changes? ✨</h3>
 <div align="center">
-  You can <kbd><a href="https://github.com/djsime1/awesome-flipperzero/edit/main/README.md">Edit this file</a></kbd> and open a Pull Request,
-  or <kbd><a href="https://github.com/djsime1/awesome-flipperzero/discussions">Start a discussion</a></kbd> with your ideas.<br>
+  You can <kbd><a href="https://github.com/kalicyh/Flipper_Zero_Apps/edit/main/README.md">Edit this file</a></kbd> and open a Pull Request,
+  or <kbd><a href="https://github.com/kalicyh/Flipper_Zero_Apps/discussions">Start a discussion</a></kbd> with your ideas.<br>
   Read the <a href="docs/FAQ/FAQ.md#meta-">Meta FAQ section</a> for more info.
 </div>

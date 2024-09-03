@@ -28,7 +28,7 @@
   <td>
     <h3 align="center">
     👋 Новичок в Flipper Zero? Есть вопросы?<br>
-    Пожалуйста, ознакомьтесь с <a href="https://github.com/djsime1/awesome-flipperzero/blob/main/FAQ.md">FAQ документом</a>❗
+    Пожалуйста, ознакомьтесь с <a href="/docs/FAQ/FAQ.md">FAQ документом</a>❗
     </h3>
   </td>
   <td>
@@ -222,7 +222,7 @@
 
 <table align="right">
   <tr><th><strong>Привет!</strong></th></tr>
-  <tr><td>🔰 <em><a href="https://github.com/djsime1/awesome-flipperzero/blob/main/Firmwares.md">Нажмите здесь</a>, чтобы увидеть эти прошивки<br> и их сравнение функций!</em></td></tr>
+  <tr><td>🔰 <em><a href="/docs/Firmwares/Firmwares.md">Нажмите здесь</a>, чтобы увидеть эти прошивки<br> и их сравнение функций!</em></td></tr>
 </table>
 
 ### *Официальная прошивка (ofw)*
@@ -385,8 +385,8 @@
 <hr>
 <h3 align="center">🆕 Хотите внести изменения? ✨</h3>
 <div align="center">
-  Вы можете <kbd><a href="https://github.com/djsime1/awesome-flipperzero/edit/main/README.md">отредактировать этот файл</a></kbd> и отправить запрос на внесение изменений,
-  или <kbd><a href="https://github.com/djsime1/awesome-flipperzero/discussions">начать обсуждение</a></kbd>, чтобы поделиться своими мыслями. <br>
-  Читайте <a href="https://github.com/djsime1/awesome-flipperzero/blob/main/FAQ.md#meta-">раздел Meta FAQ</a> для получения дополнительной информации.
+  Вы можете <kbd><a href="https://github.com/kalicyh/Flipper_Zero_Apps/edit/main/README.md">отредактировать этот файл</a></kbd> и отправить запрос на внесение изменений,
+  или <kbd><a href="https://github.com/kalicyh/Flipper_Zero_Apps/discussions">начать обсуждение</a></kbd>, чтобы поделиться своими мыслями. <br>
+  Читайте <a href="/docs/FAQ/FAQ.md#meta-">раздел Meta FAQ</a> для получения дополнительной информации.
 </div>
 

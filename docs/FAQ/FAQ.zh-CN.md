@@ -48,7 +48,7 @@
 > 最好是打开一个[Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)来提交你的修改，或者使用下一个问题中的方法联系我。
 
 ### 我发现了一个错误、坏链接或其他问题。我应该怎么做？
-> 在这个库上打开[新讨论](https://github.com/djsime1/awesome-flipperzero/discussions/new)，或者通过[这页](https://dj.je/pages/contact)上的方法联系我。
+> 在这个库上打开[新讨论](https://github.com/kalicyh/Flipper_Zero_Apps/discussions/new)，或者通过[这页](https://dj.je/pages/contact)上的方法联系我。
 
 ### 为什么有这么多未合并的Pull Request？
 > 如果同时有多个小的Pull Request，我通常会将它们合并为一个更新。由于GitHub的工作方式，我无法在合并时将它们标记为已合并。为了补偿，我会将贡献者作为提交的共同作者，并在更新消息中提及Pull Request ID。

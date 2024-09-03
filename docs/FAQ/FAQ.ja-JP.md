@@ -55,7 +55,7 @@
 
 ### エラー、リンク切れ、その他の問題を発見しました。どうすれば良いですか？
 
-> このリポジトリで[新しいディスカッション](https://github.com/djsime1/awesome-flipperzero/discussions/new)をオープンするか、[このページ](https://dj.je/pages/contact)の方法で私に連絡してください。
+> このリポジトリで[新しいディスカッション](https://github.com/kalicyh/Flipper_Zero_Apps/discussions/new)をオープンするか、[このページ](https://dj.je/pages/contact)の方法で私に連絡してください。
 
 ### なぜ未マージのPull Requestがそんなに多いのですか？
 
