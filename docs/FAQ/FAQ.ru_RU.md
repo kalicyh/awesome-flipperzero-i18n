@@ -1,7 +1,13 @@
-```markdown
 <a id="top" href="https://github.com/kalicyh/Flipper_Zero_Apps">
  <img src="https://user-images.githubusercontent.com/8518150/179464273-7927420c-b60a-48ab-9eb9-d69b563c0a0b.png" align="center" alt="Flipper Zero FAQ" title="Flipper Zero FAQ">
 </a>
+
+<h3 align="center">
+  <a href="FAQ.md">English</a> | 
+  <a href="FAQ.zh-CN.md">中文</a> | 
+  <a href="FAQ.ja-JP.md">日本語</a> | 
+  <a href="FAQ.ru_RU.md" style="color: #ffffff;">Русский</a>
+</h3>
 
 <table align="center">
  <tr><th colspan="8">Содержание</th></tr>
@@ -241,9 +247,7 @@
  На Flipper откройте настройки, перейдите в систему и установите уровень логирования на отладочный. <em>(Вы можете оставить отладку отключенной, если только кто-то не попросит вас включить ее)</em>
  Как только вы откроете CLI, введите <code>log</code>, чтобы просмотреть журналы. <em>(Если не отображается, используйте <code>debug</code>, чтобы убедиться, что есть входные данные)</em>
 </blockquote>
-```
 
-```markdown
 ## Sub-GHz [🔝](#top)
 
 ### Как я могу взломать гараж соседа или разблокировать машину незнакомца?!
@@ -451,5 +455,5 @@
 > - Прошивка Blackmagic: [используйте ufbt](https://docs.flipper.net/development/hardware/wifi-developer-board/update).
 > - Прошивка Marauder: [выберите один из следующих вариантов](https://github.com/justcallmekoko/ESP32Marauder/wiki/update-firmware#using-spacehuhn-web-updater).
 > - Прошивка другой прошивки: используйте [приложение ESP Flasher](https://lab.flipper.net/apps/esp_flasher) или [ESPWebTool](https://esp.huhn.me/).
-```
+
 

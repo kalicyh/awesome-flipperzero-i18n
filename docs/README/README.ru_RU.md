@@ -1,4 +1,3 @@
-```markdown
 <hr>
 
 <a href="https://github.com/kalicyh/Flipper_Zero_Apps">
@@ -6,6 +5,13 @@
 </a>
 
 <hr>
+
+<h3 align="center">
+  <a href="README.md">English</a> | 
+  <a href="README.zh-CN.md">中文</a> | 
+  <a href="README.ja-JP.md">日本語</a> | 
+  <a href="README.ru_RU.md" style="color: #ffffff;">Русский</a>
+</h3>
 
 <h3 align="center">
   Потрясающие ресурсы для устройства <a href="https://flipperzero.one">Flipper Zero</a>.<br><br>
@@ -264,7 +270,7 @@
 - [`Flipper Animation Manager` Визуализация и управление анимациями с компьютера.](https://github.com/Ooggle/FlipperAnimationManager)
 - [`H4XV's Gif2Anim` Преобразователь Gif2FlipperAnimation](https://github.com/H4XV/flipper-animation-generator)
 - [`zip2Animation` Инструмент для создания анимаций.](https://github.com/CharlesTheGreat77/zip2Animation)
-```
+
 
 ## Модули и корпуса
 

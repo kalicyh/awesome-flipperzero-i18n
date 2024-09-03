@@ -3,7 +3,7 @@
 </a>
 
 <h3 align="center">
-  <a href="FAQ.md" style="color: #ffffff;" >English</a> | 
+  <a href="FAQ.md" style="color: #ffffff;">English</a> | 
   <a href="FAQ.zh-CN.md">中文</a> | 
   <a href="FAQ.ja-JP.md">日本語</a> | 
   <a href="FAQ.ru_RU.md">Русский</a>

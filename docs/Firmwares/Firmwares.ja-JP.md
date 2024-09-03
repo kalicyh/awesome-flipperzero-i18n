@@ -1,5 +1,10 @@
-```markdown
 <h1>Flipper Zero ファームウェアの違い</h1>
+<h3 align="center">
+  <a href="Firmwares.md">English</a> | 
+  <a href="Firmwares.zh-CN.md">中文</a> | 
+  <a href="Firmwares.ja-JP.md" style="color: #ffffff;">日本語</a> | 
+  <a href="Firmwares.ru_RU.md">Русский</a>
+</h3>
 <h3>
     <code>::</code> 最終更新日 2024年3月11日。<code>::</code>
 </h3>
@@ -191,5 +196,5 @@
     <li>RogueMaster は Unleashed に基づいていますが、特定の状況では Unleashed よりも安定性が劣る場合があります。</li>
     <li>SquachWare は公式ファームウェアのブランチであり、多くのカスタムコンテンツを追加しつつ、公式ファームウェアのセキュリティと快適さを保っています。</li>
 </ul>
-```
+
 

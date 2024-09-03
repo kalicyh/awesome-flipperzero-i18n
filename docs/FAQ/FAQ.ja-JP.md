@@ -1,7 +1,13 @@
-```markdown
 <a id="top" href="https://github.com/kalicyh/Flipper_Zero_Apps">
   <img src="https://user-images.githubusercontent.com/8518150/179464273-7927420c-b60a-48ab-9eb9-d69b563c0a0b.png" align="center" alt="Flipper Zero FAQ" title="Flipper Zero FAQ">
 </a>
+
+<h3 align="center">
+  <a href="FAQ.md">English</a> | 
+  <a href="FAQ.zh-CN.md">中文</a> | 
+  <a href="FAQ.ja-JP.md" style="color: #ffffff;">日本語</a> | 
+  <a href="FAQ.ru_RU.md">Русский</a>
+</h3>
 
 <table align="center">
   <tr><th colspan="8">目次</th></tr>
@@ -241,9 +247,7 @@
   Flipperで設定を開き、システムに移動し、ログレベルをデバッグに設定します。<em>(他人が要求するまでデバッグをオフのままにしても大丈夫です)</em>
   CLIを開いたら、 <code>log</code> を入力してログを表示します。 <em>(表示されない場合は、<code>debug</code>を使用してデータ入力があることを確認してください)</em>
 </blockquote>
-```
 
-```markdown
 ## Sub-GHz [🔝](#top)
 
 ### 隣人のガレージや見知らぬ人の車をハッキングする方法は？
@@ -451,5 +455,3 @@
 > - Blackmagicをフラッシュする： [ufbtを使用](https://docs.flipper.net/development/hardware/wifi-developer-board/update)。
 > - Marauderをフラッシュする：[次のいずれかのオプションを選択してください](https://github.com/justcallmekoko/ESP32Marauder/wiki/update-firmware#using-spacehuhn-web-updater)。
 > - 他のファームウェアをフラッシュする： [ESP Flasherアプリ](https://lab.flipper.net/apps/esp_flasher)または[ESPWebTool](https://esp.huhn.me/)を使用して行います。
-```
-

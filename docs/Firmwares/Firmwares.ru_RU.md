@@ -1,5 +1,10 @@
-```markdown
 <h1>Различия прошивок Flipper Zero</h1>
+<h3 align="center">
+  <a href="Firmwares.md">English</a> | 
+  <a href="Firmwares.zh-CN.md">中文</a> | 
+  <a href="Firmwares.ja-JP.md">日本語</a> | 
+  <a href="Firmwares.ru_RU.md" style="color: #ffffff;">Русский</a>
+</h3>
 <h3>
     <code>::</code> Последнее обновление 11 марта 2024 года. <code>::</code>
 </h3>
@@ -191,5 +196,5 @@
     <li>RogueMaster основан на Unleashed, но в некоторых случаях может быть менее стабильным, чем Unleashed.</li>
     <li>SquachWare происходит из ветки официальной прошивки, добавляя множество пользовательских элементов, сохраняя при этом безопасность и удобство официальной прошивки.</li>
 </ul>
-```
+
 

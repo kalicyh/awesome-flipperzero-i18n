@@ -1,4 +1,10 @@
 <h1>Flipper Zero 固件差异</h1>
+<h3 align="center">
+  <a href="Firmwares.md">English</a> | 
+  <a href="Firmwares.zh-CN.md" style="color: #ffffff;">中文</a> | 
+  <a href="Firmwares.ja-JP.md">日本語</a> | 
+  <a href="Firmwares.ru_RU.md">Русский</a>
+</h3>
 <h3>
     <code>::</code> 最后更新于 2024 年 3 月 11 日。<code>::</code>
 </h3>

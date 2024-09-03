@@ -28,7 +28,7 @@
   <td>
     <h3 align="center">
     👋 New to Flipper Zero? Got questions?<br>
-    Check out the <a href="https://github.com/djsime1/awesome-flipperzero/blob/main/FAQ.md">FAQ Document</a>❗
+    Check out the <a href="docs/FAQ/FAQ.md">FAQ Document</a>❗
     </h3>
   </td>
   <td>
@@ -388,5 +388,5 @@
 <div align="center">
   You can <kbd><a href="https://github.com/djsime1/awesome-flipperzero/edit/main/README.md">Edit this file</a></kbd> and open a Pull Request,
   or <kbd><a href="https://github.com/djsime1/awesome-flipperzero/discussions">Start a discussion</a></kbd> with your ideas.<br>
-  Read the <a href="https://github.com/djsime1/awesome-flipperzero/blob/main/FAQ.md#meta-">Meta FAQ section</a> for more info.
+  Read the <a href="docs/FAQ/FAQ.md#meta-">Meta FAQ section</a> for more info.
 </div>

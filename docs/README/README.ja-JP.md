@@ -1,4 +1,3 @@
-```markdown
 <hr>
 
 <a href="https://github.com/kalicyh/Flipper_Zero_Apps">
@@ -6,6 +5,13 @@
 </a>
 
 <hr>
+
+<h3 align="center">
+  <a href="README.md">English</a> | 
+  <a href="README.zh-CN.md">中文</a> | 
+  <a href="README.ja-JP.md" style="color: #ffffff;">日本語</a> | 
+  <a href="README.ru_RU.md">Русский</a>
+</h3>
 
 <h3 align="center">
   <a href="https://flipperzero.one">Flipper Zero</a> デバイスの素晴らしいリソース集です。<br><br>
@@ -264,9 +270,8 @@
 - [`Flipper Animation Manager` コンピューターからアニメーションを可視化し管理する。](https://github.com/Ooggle/FlipperAnimationManager)
 - [`H4XV's Gif2Anim` GifからFlipper Animationへの変換器](https://github.com/H4XV/flipper-animation-generator)
 - [`zip2Animation` アニメーション作成をサポートするツール。](https://github.com/CharlesTheGreat77/zip2Animation)
-```
 
-```markdown
+
 ## モジュール & ケース
 
 ### *ケース*
@@ -384,5 +389,5 @@
  または <kbd><a href="https://github.com/djsime1/awesome-flipperzero/discussions">議論を開始</a></kbd>してアイデアを共有してください。<br>
  詳細については <a href="https://github.com/djsime1/awesome-flipperzero/blob/main/FAQ.md#meta-">Meta FAQセクション</a>をお読みください。
 </div>
-```
+
 
