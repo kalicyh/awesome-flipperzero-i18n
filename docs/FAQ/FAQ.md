@@ -2,6 +2,13 @@
   <img src="https://user-images.githubusercontent.com/8518150/179464273-7927420c-b60a-48ab-9eb9-d69b563c0a0b.png" align="center" alt="Flipper Zero FAQ" title="Flipper Zero FAQ">
 </a>
 
+<h3 align="center">
+  <a href="FAQ.md" style="color: #ffffff;" >English</a> | 
+  <a href="FAQ.zh-CN.md">中文</a> | 
+  <a href="FAQ.ja-JP.md">日本語</a> | 
+  <a href="FAQ.ru_RU.md">Русский</a>
+</h3>
+
 <table align="center">
   <tr><th colspan="8">Table of Contents</th></tr>
   <tr>

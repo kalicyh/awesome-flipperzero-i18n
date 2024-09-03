@@ -1,3 +1,9 @@
+<h3 align="center">
+  <a href="Firmwares.md" style="color: #ffffff;" >English</a> | 
+  <a href="Firmwares.zh-CN.md">中文</a> | 
+  <a href="Firmwares.ja-JP.md">日本語</a> | 
+  <a href="Firmwares.ru_RU.md">Русский</a>
+</h3>
 <h1>Flipper Zero firmware differences</h1>
 <h3>
     <code>::</code> Last updated March 11 2024. <code>::</code>
