@@ -22,6 +22,7 @@
     <td><a href="#wifi-board-">WiFi 板</a></td>
   </tr>
 </table>
+
 ### 顶部 [🔝](#top)
 - *这是一个社区FAQ。请同时考虑阅读[官方文档](https://docs.flipperzero.one/)。*
 - *本文基于最新的开发固件编写，某些问题和答案可能在固件（预）发布之前不适用。*
